@@ -1,4 +1,4 @@
-### Hi there 👋
+### 😎 Hi, I am Kenneth Wong.
 
 <!--
 **kwwong1022/kwwong1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
