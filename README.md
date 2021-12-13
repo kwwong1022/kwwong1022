@@ -3,7 +3,7 @@
 <div>
   <h3>About Me</h3>
   :books: I am an undergraduate student of City University of Hong Kong.<br>
-  :book:  I'm currently learning full stack web development.<br><br>
+  :book:  I'm currently learning full stack web & mobile development.<br><br>
 </div>
 
 <h4>Visitor's count</h4>
