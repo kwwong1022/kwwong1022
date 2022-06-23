@@ -1,4 +1,4 @@
-<h2><img src="https://media.tenor.com/images/025dab185cde4ae5acac2d82768b19f6/tenor.gif" width="25px"> Hi, I am Kenneth Wong.</h2>
+<h2><img src="https://media.tenor.com/images/025dab185cde4ae5acac2d82768b19f6/tenor.gif" width="15px"> Hi, I am Kenneth Wong.</h2>
 
 <div>
   <h3>About Me</h3>
